@@ -1,3 +1,4 @@
 flask
-line-bot-sdk
+line-bot-sdk>=3.0.0
 requests
+supabase
